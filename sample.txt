@@ -3,3 +3,6 @@ lien added from branch1
 line next branch1 second time
 
 new feature additionf from branch2, lets see what happens.
+
+
+want to check what is rebasing for ? :P
