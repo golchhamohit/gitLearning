@@ -1,1 +1,3 @@
 this is first line
+
+new feature additionf from branch2, lets see what happens.
